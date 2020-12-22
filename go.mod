@@ -1,3 +1,3 @@
-module git.nils.zone/nils/gordo
+module github.com/thunderstorm99/gordo
 
 go 1.15
