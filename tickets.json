@@ -1,0 +1,12 @@
+{
+  "owners": [
+    {
+      "name": "Person1",
+      "tickets": [1,2000,50000]
+    },
+    {
+      "name": "Person2",
+      "tickets": [300]
+    }
+  ]
+}
