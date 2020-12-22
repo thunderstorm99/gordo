@@ -5,3 +5,8 @@ This is a small program that will check your ticket numbers against the [EL PAÍ
 
 ## How to use it?
 To use it just edit the name(s) and number(s) in `tickets.json`
+
+## How to run it?
+Just clone this repository and run it using `go run .` or `go build .` and `./gordo`
+
+Alternatively you can download pre-built binaries from the [release page](https://github.com/thunderstorm99/gordo/releases)
